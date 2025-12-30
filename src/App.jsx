@@ -1504,7 +1504,7 @@ export default function App() {
         <header className="onboarding-header">
           <div className="logo">
             <span className="logo-icon">☀️</span>
-            <span className="logo-text">SolarBid</span>
+            <span className="logo-text">Resofts</span>
           </div>
           <div className="header-progress">
             <span className="progress-text">
